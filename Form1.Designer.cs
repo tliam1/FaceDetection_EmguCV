@@ -62,7 +62,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(882, 483);
+            this.ClientSize = new System.Drawing.Size(918, 493);
             this.Controls.Add(this.Photo_PB);
             this.Controls.Add(this.Scan_BTN);
             this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);

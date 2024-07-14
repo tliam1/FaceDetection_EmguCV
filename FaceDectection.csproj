@@ -81,6 +81,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="DlibDotNet">
+      <Version>19.21.0.20220724</Version>
+    </PackageReference>
     <PackageReference Include="Emgu.CV">
       <Version>4.9.0.5494</Version>
     </PackageReference>
@@ -92,6 +95,9 @@
     </PackageReference>
     <PackageReference Include="Emgu.CV.UI">
       <Version>4.9.0.5494</Version>
+    </PackageReference>
+    <PackageReference Include="OpenCVSharp">
+      <Version>2.4.0.1</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
